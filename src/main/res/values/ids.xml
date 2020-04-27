@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scoreLabel" type="id" />
+    <item name="highScoreLabel" type="id" />
+    <item name="totalScoreLabel" type="id" />
+    <item name="resultlabel" type="id" />
+</resources>
